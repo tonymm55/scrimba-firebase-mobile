@@ -1,0 +1,1 @@
+# scrimba-firebase-mobile
