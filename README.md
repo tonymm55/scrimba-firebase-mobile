@@ -12,7 +12,7 @@ To build a mobile application (simple shopping list) that is linked to a realtim
 
 ## Screenshots
 
-![Mobile Version](./TBCcat.png)
+![Mobile Version](/Users/anthonymoran/Coding/Scrimba/scrimba-firebase-mobile/vite-project/Assets/CatScreen.png)
 
 **Mobile Version Only**
 
