@@ -12,7 +12,7 @@ To build a mobile application (simple shopping list) that is linked to a realtim
 
 ## Screenshots
 
-![Mobile Version](vite-project/Assets/Peach.jpeg)
+![Mobile Version](vite-project/Assets/CatScreen.png)
 
 **Mobile Version Only**
 
