@@ -2,7 +2,7 @@
 
 This project is a tutorial delivered by Rafid Hoda at Scrimba. I'm working through this tutorial to expand my knowledge in JavaScript and Firebase realtime database.
 
-## Technical Task Description 
+## Tutorial / Project Description 
 
 To build a mobile application (simple shopping list) that is linked to a realtime database on Firebase.
 
