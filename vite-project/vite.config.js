@@ -1,5 +1,11 @@
 import {defineConfig} from 'vite'
 
 export default defineConfig({
-	plugins: []	
+	plugins: [],
+	server: {
+		static: "Assets",
+	},	
+	build: {
+		assetsDir: 'public',
+	},
 })
