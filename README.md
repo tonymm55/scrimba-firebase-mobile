@@ -12,7 +12,7 @@ To build a mobile application (simple shopping list) that is linked to a realtim
 
 ## Screenshots
 
-![Mobile Version](vite-project/Assets/CatScreen.png)
+![Mobile Version](public/Assets/CatScreen.png)
 
 **Mobile Version Only**
 
@@ -50,6 +50,10 @@ I would like to implement:
 
 * TBC
 * Write tests to ensure the application is robust, stable and feature tested.
+
+## If I Had More Time
+
+I learned a lot here especially around deployment. These are my initial notes. When I first set up the project, I managed to create 2 folders that were remotely connected to Github. This happened when I retrospectively set up the vite-project and this created a new folder that was remotely connected to Github in additon to the root folder. At the end of the project, I deleted the folder which of course created errors. I did this because Netlify was not showing the images and I suspected it may have been related to the build process. I'm not sure. Filepaths were another issue, as I was specifying the full filepath rather than the relative filepath /Assets. This was changed and the images/favicons appeared. Initially there were multiple errors with the site.webmanifest. Again, this was due to filepaths being full instead of relative. ChatGPT also advised assets and webmanifest to be in the public folder for image access.
 
 ## Author
 
